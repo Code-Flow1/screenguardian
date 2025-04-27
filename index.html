@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Privacy Guardian Logs</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            padding: 10px;
+        }
+        #log-container {
+            border: 1px solid #ccc;
+            padding: 10px;
+            margin-top: 10px;
+            overflow-y: scroll;
+            height: 400px; /* Adjust as needed */
+            background-color: #f0f0f0;
+            font-size: 14px;
+            line-height: 1.5;
+        }
+        .log-message {
+            margin-bottom: 5px;
+            white-space: pre-wrap; /* Preserve newlines and spaces */
+            word-break: break-all;  /* prevent long words from overflowing */
+        }
+    </style>
+</head>
+<body>
+    <h1>Privacy Guardian Log</h1>
+    <div id="log-container"></div>
+    <script>
+        const logContainer = document.getElementById('log-container');
+        const { ipcRenderer } = require('electron');
+
+        ipcRenderer.on('log-message', (event, message) => {
+            const logEntry = document.createElement('div');
+            logEntry.className = 'log-message';
+            logEntry.textContent = message;
+            logContainer.appendChild(logEntry);
+            logContainer.scrollTop = logContainer.scrollHeight; // Auto-scroll
+        });
+    </script>
+</body>
+</html>
