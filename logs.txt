@@ -1,0 +1,177 @@
+[2025-04-24T08:17:17.530Z] Error during scanning: appWindow.exists is not a function
+[2025-04-24T08:17:32.531Z] Error during scanning: appWindow.exists is not a function
+[2025-04-24T08:20:22.986Z] Error during scanning: client.getWindows is not a function
+[2025-04-24T08:20:37.996Z] Error during scanning: client.getWindows is not a function
+[2025-04-24T08:45:03.898Z] Detected harmful app running: spyapp.exe
+[2025-04-24T08:45:03.900Z] Error during scanning: client.openWindow is not a function
+[2025-04-24T08:45:18.903Z] Detected harmful app running: spyapp.exe
+[2025-04-24T08:45:18.904Z] Error during scanning: client.openWindow is not a function
+[2025-04-24T08:45:33.917Z] Detected harmful app running: spyapp.exe
+[2025-04-24T08:45:33.921Z] Error during scanning: client.openWindow is not a function
+[2025-04-24T08:45:48.986Z] Detected harmful app running: spyapp.exe
+[2025-04-24T08:45:48.987Z] Error during scanning: client.openWindow is not a function
+[2025-04-24T08:46:03.992Z] Detected harmful app running: spyapp.exe
+[2025-04-24T08:46:03.993Z] Error during scanning: client.openWindow is not a function
+[2025-04-24T08:46:18.944Z] Detected harmful app running: spyapp.exe
+[2025-04-24T08:46:18.944Z] Error during scanning: client.openWindow is not a function
+[2025-04-24T08:46:33.937Z] Detected harmful app running: spyapp.exe
+[2025-04-24T08:46:33.938Z] Error during scanning: client.openWindow is not a function
+[2025-04-24T08:46:48.934Z] Detected harmful app running: spyapp.exe
+[2025-04-24T08:46:48.935Z] Error during scanning: client.openWindow is not a function
+[2025-04-24T08:47:03.937Z] Detected harmful app running: spyapp.exe
+[2025-04-24T08:47:03.938Z] Error during scanning: client.openWindow is not a function
+[2025-04-24T08:47:18.963Z] Detected harmful app running: spyapp.exe
+[2025-04-24T08:47:18.964Z] Error during scanning: client.openWindow is not a function
+[2025-04-24T08:47:34.081Z] Detected harmful app running: spyapp.exe
+[2025-04-24T08:47:34.082Z] Error during scanning: client.openWindow is not a function
+[2025-04-24T08:47:49.074Z] Detected harmful app running: spyapp.exe
+[2025-04-24T08:47:49.076Z] Error during scanning: client.openWindow is not a function
+[2025-04-24T08:48:03.987Z] Detected harmful app running: spyapp.exe
+[2025-04-24T08:48:03.988Z] Error during scanning: client.openWindow is not a function
+[2025-04-24T08:48:19.005Z] Detected harmful app running: spyapp.exe
+[2025-04-24T08:48:19.006Z] Error during scanning: client.openWindow is not a function
+[2025-04-24T08:48:33.997Z] Detected harmful app running: spyapp.exe
+[2025-04-24T08:48:33.997Z] Error during scanning: client.openWindow is not a function
+[2025-04-24T08:48:49.040Z] Detected harmful app running: spyapp.exe
+[2025-04-24T08:48:49.040Z] Error during scanning: client.openWindow is not a function
+[2025-04-24T08:49:04.007Z] Detected harmful app running: spyapp.exe
+[2025-04-24T08:49:04.008Z] Error during scanning: client.openWindow is not a function
+[2025-04-24T08:49:19.025Z] Detected harmful app running: spyapp.exe
+[2025-04-24T08:49:19.025Z] Error during scanning: client.openWindow is not a function
+[2025-04-24T08:49:34.005Z] Detected harmful app running: spyapp.exe
+[2025-04-24T08:49:34.005Z] Error during scanning: client.openWindow is not a function
+[2025-04-27T07:15:50.039Z] Detected harmful app running: spyapp.exe
+[2025-04-27T07:15:50.043Z] Error during scanning: client.openWindow is not a function
+[2025-04-27T07:16:05.046Z] Detected harmful app running: spyapp.exe
+[2025-04-27T07:16:05.046Z] Error during scanning: client.openWindow is not a function
+[2025-04-27T07:16:20.052Z] Detected harmful app running: spyapp.exe
+[2025-04-27T07:16:20.053Z] Error during scanning: client.openWindow is not a function
+[2025-04-27T07:16:35.070Z] Detected harmful app running: spyapp.exe
+[2025-04-27T07:16:35.070Z] Error during scanning: client.openWindow is not a function
+[2025-04-27T07:16:50.083Z] Detected harmful app running: spyapp.exe
+[2025-04-27T07:16:50.083Z] Error during scanning: client.openWindow is not a function
+[2025-04-27T07:17:05.114Z] Detected harmful app running: spyapp.exe
+[2025-04-27T07:17:05.114Z] Error during scanning: client.openWindow is not a function
+[2025-04-27T07:17:20.111Z] Detected harmful app running: spyapp.exe
+[2025-04-27T07:17:20.112Z] Error during scanning: client.openWindow is not a function
+[2025-04-27T07:17:35.117Z] Detected harmful app running: spyapp.exe
+[2025-04-27T07:17:35.118Z] Error during scanning: client.openWindow is not a function
+[2025-04-27T07:17:50.121Z] Detected harmful app running: spyapp.exe
+[2025-04-27T07:17:50.122Z] Error during scanning: client.openWindow is not a function
+[2025-04-27T07:21:25.140Z] Detected harmful app running: spyapp.exe
+[2025-04-27T07:21:25.182Z] Error during scanning: Network error connecting to http://127.0.0.1:9375/open_application. Is the server running? (fetch failed)
+[2025-04-27T07:21:40.138Z] Detected harmful app running: spyapp.exe
+[2025-04-27T07:21:40.141Z] Error during scanning: Network error connecting to http://127.0.0.1:9375/open_application. Is the server running? (fetch failed)
+[2025-04-27T07:21:55.177Z] Detected harmful app running: spyapp.exe
+[2025-04-27T07:21:55.181Z] Error during scanning: Network error connecting to http://127.0.0.1:9375/open_application. Is the server running? (fetch failed)
+[2025-04-27T07:28:24.331Z] Detected harmful app running: spyapp.exe
+[2025-04-27T07:28:24.365Z] Error during scanning: Server returned status 422 for endpoint http://127.0.0.1:9375/open_application - Failed to deserialize the JSON body into the target type: app_name: invalid type: map, expected a string at line 1 column 12
+[2025-04-27T07:28:39.338Z] Detected harmful app running: spyapp.exe
+[2025-04-27T07:28:39.342Z] Error during scanning: Server returned status 422 for endpoint http://127.0.0.1:9375/open_application - Failed to deserialize the JSON body into the target type: app_name: invalid type: map, expected a string at line 1 column 12
+[2025-04-27T07:28:54.337Z] Detected harmful app running: spyapp.exe
+[2025-04-27T07:28:54.340Z] Error during scanning: Server returned status 422 for endpoint http://127.0.0.1:9375/open_application - Failed to deserialize the JSON body into the target type: app_name: invalid type: map, expected a string at line 1 column 12
+[2025-04-27T07:30:00.369Z] Detected harmful app running: spyapp.exe
+[2025-04-27T07:30:00.399Z] Error during scanning: Server returned status 422 for endpoint http://127.0.0.1:9375/open_application - Failed to deserialize the JSON body into the target type: app_name: invalid type: map, expected a string at line 1 column 12
+[2025-04-27T07:30:15.404Z] Detected harmful app running: spyapp.exe
+[2025-04-27T07:30:15.407Z] Error during scanning: Server returned status 422 for endpoint http://127.0.0.1:9375/open_application - Failed to deserialize the JSON body into the target type: app_name: invalid type: map, expected a string at line 1 column 12
+[2025-04-27T07:30:30.369Z] Detected harmful app running: spyapp.exe
+[2025-04-27T07:30:30.373Z] Error during scanning: Server returned status 422 for endpoint http://127.0.0.1:9375/open_application - Failed to deserialize the JSON body into the target type: app_name: invalid type: map, expected a string at line 1 column 12
+[2025-04-27T07:30:45.390Z] Detected harmful app running: spyapp.exe
+[2025-04-27T07:30:45.392Z] Error during scanning: Server returned status 422 for endpoint http://127.0.0.1:9375/open_application - Failed to deserialize the JSON body into the target type: app_name: invalid type: map, expected a string at line 1 column 12
+[2025-04-27T07:31:00.410Z] Detected harmful app running: spyapp.exe
+[2025-04-27T07:31:00.413Z] Error during scanning: Server returned status 422 for endpoint http://127.0.0.1:9375/open_application - Failed to deserialize the JSON body into the target type: app_name: invalid type: map, expected a string at line 1 column 12
+[2025-04-27T07:31:50.605Z] Detected harmful app running: spyapp.exe
+[2025-04-27T07:31:50.635Z] Error during scanning: Server returned status 422 for endpoint http://127.0.0.1:9375/open_application - Failed to deserialize the JSON body into the target type: app_name: invalid type: map, expected a string at line 1 column 12
+[2025-04-27T07:32:05.608Z] Detected harmful app running: spyapp.exe
+[2025-04-27T07:32:05.613Z] Error during scanning: Server returned status 422 for endpoint http://127.0.0.1:9375/open_application - Failed to deserialize the JSON body into the target type: app_name: invalid type: map, expected a string at line 1 column 12
+[2025-04-27T07:32:20.639Z] Detected harmful app running: spyapp.exe
+[2025-04-27T07:32:20.643Z] Error during scanning: Server returned status 422 for endpoint http://127.0.0.1:9375/open_application - Failed to deserialize the JSON body into the target type: app_name: invalid type: map, expected a string at line 1 column 12
+[2025-04-27T07:32:35.640Z] Detected harmful app running: spyapp.exe
+[2025-04-27T07:32:35.643Z] Error during scanning: Server returned status 422 for endpoint http://127.0.0.1:9375/open_application - Failed to deserialize the JSON body into the target type: app_name: invalid type: map, expected a string at line 1 column 12
+[2025-04-27T07:32:48.829Z] Detected harmful app running: spyapp.exe
+[2025-04-27T07:32:48.859Z] Error during scanning: Server returned status 422 for endpoint http://127.0.0.1:9375/open_application - Failed to deserialize the JSON body into the target type: app_name: invalid type: map, expected a string at line 1 column 12
+[2025-04-27T07:33:03.879Z] Detected harmful app running: spyapp.exe
+[2025-04-27T07:33:03.883Z] Error during scanning: Server returned status 422 for endpoint http://127.0.0.1:9375/open_application - Failed to deserialize the JSON body into the target type: app_name: invalid type: map, expected a string at line 1 column 12
+[2025-04-27T07:33:18.859Z] Detected harmful app running: spyapp.exe
+[2025-04-27T07:33:18.862Z] Error during scanning: Server returned status 422 for endpoint http://127.0.0.1:9375/open_application - Failed to deserialize the JSON body into the target type: app_name: invalid type: map, expected a string at line 1 column 12
+[2025-04-27T07:33:33.865Z] Detected harmful app running: spyapp.exe
+[2025-04-27T07:33:33.868Z] Error during scanning: Server returned status 422 for endpoint http://127.0.0.1:9375/open_application - Failed to deserialize the JSON body into the target type: app_name: invalid type: map, expected a string at line 1 column 12
+[2025-04-27T07:33:48.873Z] Detected harmful app running: spyapp.exe
+[2025-04-27T07:33:48.876Z] Error during scanning: Server returned status 422 for endpoint http://127.0.0.1:9375/open_application - Failed to deserialize the JSON body into the target type: app_name: invalid type: map, expected a string at line 1 column 12
+[2025-04-27T07:34:03.870Z] Detected harmful app running: spyapp.exe
+[2025-04-27T07:34:03.873Z] Error during scanning: Server returned status 422 for endpoint http://127.0.0.1:9375/open_application - Failed to deserialize the JSON body into the target type: app_name: invalid type: map, expected a string at line 1 column 12
+[2025-04-27T07:34:18.879Z] Detected harmful app running: spyapp.exe
+[2025-04-27T07:34:18.882Z] Error during scanning: Server returned status 422 for endpoint http://127.0.0.1:9375/open_application - Failed to deserialize the JSON body into the target type: app_name: invalid type: map, expected a string at line 1 column 12
+[2025-04-27T07:34:33.904Z] Detected harmful app running: spyapp.exe
+[2025-04-27T07:34:33.907Z] Error during scanning: Server returned status 422 for endpoint http://127.0.0.1:9375/open_application - Failed to deserialize the JSON body into the target type: app_name: invalid type: map, expected a string at line 1 column 12
+[2025-04-27T07:34:40.142Z] Detected harmful app running: spyapp.exe
+[2025-04-27T07:34:40.172Z] Error during scanning: Server returned status 422 for endpoint http://127.0.0.1:9375/open_application - Failed to deserialize the JSON body into the target type: app_name: invalid type: map, expected a string at line 1 column 12
+[2025-04-27T07:34:55.195Z] Detected harmful app running: spyapp.exe
+[2025-04-27T07:34:55.199Z] Error during scanning: Server returned status 422 for endpoint http://127.0.0.1:9375/open_application - Failed to deserialize the JSON body into the target type: app_name: invalid type: map, expected a string at line 1 column 12
+[2025-04-27T07:35:10.183Z] Detected harmful app running: spyapp.exe
+[2025-04-27T07:35:10.186Z] Error during scanning: Server returned status 422 for endpoint http://127.0.0.1:9375/open_application - Failed to deserialize the JSON body into the target type: app_name: invalid type: map, expected a string at line 1 column 12
+[2025-04-27T07:35:25.185Z] Detected harmful app running: spyapp.exe
+[2025-04-27T07:35:25.188Z] Error during scanning: Server returned status 422 for endpoint http://127.0.0.1:9375/open_application - Failed to deserialize the JSON body into the target type: app_name: invalid type: map, expected a string at line 1 column 12
+[2025-04-27T07:35:40.193Z] Detected harmful app running: spyapp.exe
+[2025-04-27T07:35:40.196Z] Error during scanning: Server returned status 422 for endpoint http://127.0.0.1:9375/open_application - Failed to deserialize the JSON body into the target type: app_name: invalid type: map, expected a string at line 1 column 12
+[2025-04-27T07:35:55.209Z] Detected harmful app running: spyapp.exe
+[2025-04-27T07:35:55.213Z] Error during scanning: Server returned status 422 for endpoint http://127.0.0.1:9375/open_application - Failed to deserialize the JSON body into the target type: app_name: invalid type: map, expected a string at line 1 column 12
+[2025-04-27T07:36:10.214Z] Detected harmful app running: spyapp.exe
+[2025-04-27T07:36:10.217Z] Error during scanning: Server returned status 422 for endpoint http://127.0.0.1:9375/open_application - Failed to deserialize the JSON body into the target type: app_name: invalid type: map, expected a string at line 1 column 12
+[2025-04-27T07:36:25.202Z] Detected harmful app running: spyapp.exe
+[2025-04-27T07:36:25.206Z] Error during scanning: Server returned status 422 for endpoint http://127.0.0.1:9375/open_application - Failed to deserialize the JSON body into the target type: app_name: invalid type: map, expected a string at line 1 column 12
+[2025-04-27T07:36:40.205Z] Detected harmful app running: spyapp.exe
+[2025-04-27T07:36:40.209Z] Error during scanning: Server returned status 422 for endpoint http://127.0.0.1:9375/open_application - Failed to deserialize the JSON body into the target type: app_name: invalid type: map, expected a string at line 1 column 12
+[2025-04-27T07:36:52.928Z] Detected harmful app running: spyapp.exe
+[2025-04-27T07:36:58.875Z] Error opening blur window: Error during request to http://127.0.0.1:9375/open_application: Automation error: Platform-specific error: Platform-specific error: no running application found from name: "file://C:\\Users\\anshu\\Desktop\\final\\terminator\\screenguardian\\blurOverlay.html" (searched as: "file://C:\\Users\\anshu\\Desktop\\final\\terminator\\screenguardian\\blurOverlay.html")
+[2025-04-27T07:37:07.955Z] Detected harmful app running: spyapp.exe
+[2025-04-27T07:37:14.112Z] Error opening blur window: Error during request to http://127.0.0.1:9375/open_application: Automation error: Platform-specific error: Platform-specific error: no running application found from name: "file://C:\\Users\\anshu\\Desktop\\final\\terminator\\screenguardian\\blurOverlay.html" (searched as: "file://C:\\Users\\anshu\\Desktop\\final\\terminator\\screenguardian\\blurOverlay.html")
+[2025-04-27T07:49:03.787Z] Detected harmful app running: spyapp.exe
+[2025-04-27T07:49:18.805Z] Detected harmful app running: spyapp.exe
+[2025-04-27T07:51:11.488Z] Detected harmful app running: spyapp.exe
+[2025-04-27T07:51:26.484Z] Detected harmful app running: spyapp.exe
+[2025-04-27T07:52:13.179Z] Detected harmful app running: spyapp.exe
+[2025-04-27T07:54:52.520Z] Detected harmful app running: spyapp.exe
+[2025-04-27T07:55:07.505Z] Detected harmful app running: spyapp.exe
+[2025-04-27T07:59:40.556Z] Detected harmful app running: spyapp.exe
+[2025-04-27T07:59:55.589Z] Detected harmful app running: spyapp.exe
+[2025-04-27T08:01:48.939Z] Detected harmful app running: spyapp.exe
+[2025-04-27T08:01:49.000Z] Blur overlay window opened
+[2025-04-27T08:01:50.909Z] User manually closed blur overlay
+[2025-04-27T08:01:50.910Z] Blur overlay window closed
+[2025-04-27T08:04:15.947Z] Detected harmful app running: spyapp.exe
+[2025-04-27T08:04:16.005Z] Blur overlay window opened
+[2025-04-27T08:04:17.645Z] User manually closed blur overlay
+[2025-04-27T08:04:17.661Z] Blur overlay window closed
+[2025-04-27T08:06:42.676Z] Detected harmful app running: spyapp.exe
+[2025-04-27T08:06:42.726Z] Blur overlay window opened
+[2025-04-27T08:06:45.198Z] User manually closed blur overlay
+[2025-04-27T08:06:45.215Z] Blur overlay window closed
+[2025-04-27T08:09:42.096Z] Detected harmful app running: spyapp.exe
+[2025-04-27T08:09:42.138Z] Blur overlay window opened
+[2025-04-27T08:09:44.667Z] User manually closed blur overlay
+[2025-04-27T08:09:44.682Z] Blur overlay window closed
+[2025-04-27T08:09:57.106Z] Detected harmful app running: spyapp.exe
+[2025-04-27T08:09:57.146Z] Blur overlay window opened
+[2025-04-27T08:09:59.289Z] User manually closed blur overlay
+[2025-04-27T08:09:59.303Z] Blur overlay window closed
+[2025-04-27T08:10:12.117Z] Detected harmful app running: spyapp.exe
+[2025-04-27T08:10:12.154Z] Blur overlay window opened
+[2025-04-27T08:10:13.826Z] User manually closed blur overlay
+[2025-04-27T08:10:13.839Z] Blur overlay window closed
+[2025-04-27T08:14:25.209Z] Detected harmful app running: spyapp.exe
+[2025-04-27T08:14:25.257Z] Blur overlay window opened
+[2025-04-27T08:14:27.933Z] User manually closed blur overlay
+[2025-04-27T08:14:27.948Z] Blur overlay window closed
+[2025-04-27T08:20:07.606Z] Detected harmful app running: spyapp.exe
+[2025-04-27T08:20:07.659Z] Blur overlay window opened
+[2025-04-27T08:20:09.996Z] User manually closed blur overlay
+[2025-04-27T08:20:10.012Z] Blur overlay window closed
+[2025-04-27T08:20:43.720Z] Detected harmful app running: spyapp.exe
+[2025-04-27T08:20:43.769Z] Blur overlay window opened
+[2025-04-27T08:20:45.432Z] User manually closed blur overlay
+[2025-04-27T08:20:45.445Z] Blur overlay window closed
+[2025-04-27T08:25:23.696Z] Detected harmful app running: spyapp.exe
+[2025-04-27T08:25:23.734Z] Blur overlay window opened
+[2025-04-27T08:25:25.728Z] User manually closed blur overlay
+[2025-04-27T08:25:25.745Z] Blur overlay window closed
